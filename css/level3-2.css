@@ -1,0 +1,103 @@
+
+h1 {
+  font-size: 10em;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p {
+  color:rgb(255, 255, 255)
+}
+.box1 {
+  background-color: rgb(253, 63, 196);
+  width: 500px;
+  position: relative;
+  left: 50px;
+  top: 0px;
+  padding: 10px;
+}
+.box2 {
+  background-color: rgb(63, 91, 253);
+  width: 1000px;
+  position: relative;
+  left: 100px;
+  top: 0px;
+  padding: 2px;
+}
+
+.box3 {
+  background-color: rgb(51, 192, 81);
+  width: 500px;
+  position: relative;
+  left: 10px;
+  top: 0px;
+  padding: 100px;
+}
+.box4 {
+  background-color: rgb(255, 64, 64);
+  width: 200x;
+  position: relative;
+  left: 1000px;
+  top: 0px;
+  padding: 1px;
+}
+.box5 {
+  background-color: rgb(192, 190, 51);
+  width: 100px;
+  position: relative;
+  left: 800px;
+  top: 0px;
+  padding: 1px
+}
+.box6 {
+  background-color: rgb(134, 59, 255);
+  width: 800px;
+  position: relative;
+  left: 200px;
+  top: 0px;
+  padding: 1px;
+}
+.box7 {
+  background-color: rgb(55, 185, 202);
+  width: 50px;
+  position: relative;
+  left: 0px;
+  top: 0px;
+  padding: 1px;
+}
+.box8 {
+  background-color: rgb(255, 154, 59);
+  width: 100px;
+  position: relative;
+  left: 400px;
+  top: 0px;
+  padding: 1px;
+}
+.box9 {
+  background-color: rgb(128, 128, 128);
+  width: 100px;
+  position: relative;
+  left: 700px;
+  top: 0px;
+  padding: 1px;
+}
+.box10 {
+  background-color: rgb(0, 0, 0);
+  width: 10px;
+  position: relative;
+  left: 600px;
+  top: 0px;
+  padding: 1px;
+}
+.colourChange {
+  color: aqua;
+  display: inline-block;
+  animation: cake 2s infinite;
+}
+@keyframes cake {
+  0%   {color: rgb(255, 0, 212);}
+  25%  {color: yellow;}
+  50%  {bcolor: blue;}
+  100% {bcolor: green;}
+}
+.body {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

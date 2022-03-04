@@ -1,0 +1,70 @@
+.box {
+  width: 500p;
+  color: pink;
+ 
+}
+.st {
+  float:left;
+  width:150px;
+
+}
+.nd {
+  float:left;
+  width:150px;
+
+}
+.rd {
+  float:left;
+  width:150px;
+
+}
+.th {
+  float:left;
+  width:180px;
+
+}
+.body {
+  background-color: black;
+  font-size: 2em;
+}
+.centre {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+hr {
+  border-top: 10px dotted pink;
+}
+.cake {
+  background-color: burlywood;
+}
+.icing {
+  background-color: white;
+}
+.candles {
+  color: white;
+}
+.margin {
+  margin-top: 500px;
+}
+.fire {
+  color: red;
+}
+.yellow {
+  color:yellow;
+}
+h1 {
+  color: white;
+}
+h6 {
+  color:white;
+}
+.flicker {
+  animation: flicker 0.5s linear infinite;
+}
+
+@keyframes flicker {
+  50% {
+    opacity: 0;
+  }
+}

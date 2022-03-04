@@ -1,0 +1,106 @@
+.body {
+  background: rgb(172,0,177);
+background: linear-gradient(90deg, rgba(172,0,177,1) 0%, rgba(255,230,255,1) 39%, rgba(191,229,255,1) 55%, rgba(9,9,121,1) 100%);
+}
+.div1 {
+  padding-top: 100px;
+  position: relative;
+}
+.centre {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.first {
+  background-color: rgb(255, 0, 157);
+  position: absolute;
+  left: 10px;
+  top: 35px;
+  padding: 2px;
+
+
+}
+.second {
+  background-color: rgb(255, 126, 238);
+  position: absolute;
+  left: 40px;
+  top: 50px;
+  z-index: 1;
+  padding: 2px;
+}
+.third {
+  background-color: rgb(255, 214, 250);
+  position: absolute;
+  left: 60px;
+  top: 65px;
+  z-index: 2;
+  padding: 2px;
+}
+
+.fourth {
+  background-color: rgb(255, 0, 225);
+  position: absolute;
+  left: 100px;
+  top: 100px;
+  font-style: bold;
+  font-size: 2em;
+  padding: 2px;
+}
+.fifth {
+  background-color: rgb(255, 111, 238);
+  position: absolute;
+  left: 120px;
+  top: 150px;
+  z-index: 1;
+  font-style: bold;
+  font-size: 2em;
+  padding: 2px;
+}
+.sixth {
+  background-color: rgb(255, 200, 249);
+  position: absolute;
+  left: 140px;
+  top: 200px;
+  z-index: 2;
+  font-style: bold;
+  font-size: 2em;
+  padding: 2px;
+}
+.seventh {
+  background-color: rgb(47, 130, 255);
+  position: absolute;
+  left: 200px;
+  top: 300px;
+  font-style: oblique;
+  font-size:3em;
+  padding: 2px;
+}
+.eigth {
+  background-color: rgb(27, 78, 155);
+  position: absolute;
+  left: 250px;
+  top: 350px;
+  font-style: oblique;
+  font-size:3em;
+  padding: 2px;
+}
+.ninth {
+  background-color: rgb(9, 29, 59);
+  position: absolute;
+  left: 300px;
+  top: 400px;
+  font-style: oblique;
+  font-size:3em;
+  color: white;
+  padding: 2px;
+}
+
+.tenth {
+  position: absolute;
+  left: 1200px;
+  top: 1000px;
+  font-size: x-small;
+  color: white;
+  padding: 2px;
+  z-index: 3;
+}

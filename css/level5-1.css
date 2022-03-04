@@ -1,0 +1,14 @@
+span:hover {
+    font-size:2em;
+    font-family: 'Gluten', cursive;
+    font-weight: 600;
+}
+.center {
+    width: 400px;
+    text-align:justify;
+    margin: auto;
+    font-family: 'Gluten', cursive;
+    font-weight: 100;
+
+    
+}

@@ -1,0 +1,24 @@
+.right {
+  position: fixed;
+  float: right;
+  left: 100px;
+  font-size: 2em;
+}
+.cancel {
+  text-decoration: line-through;
+}
+.deco1 {
+  text-decoration: underline overline dotted rgb(252, 90, 203) 10px;
+}
+.last {
+  position: relative;
+  left: 500px;
+  top: 500px;
+
+}
+.eat {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-size: 5em;
+}

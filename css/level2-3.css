@@ -1,0 +1,20 @@
+.small {
+    font-weight: bold;
+    font-size: 10px;
+}
+.xSmall {
+    font-weight: bold;
+    font-size: 9px;
+}
+.xxSmall {
+    font-weight: bold;
+    font-size: 8px;
+}
+.xxxSmall {
+    font-weight: bold;
+    font-size: 7px;
+}
+.body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}

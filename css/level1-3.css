@@ -1,0 +1,12 @@
+.body {
+    display: block;
+}
+.rotate {
+    transform: rotate(45deg);
+}
+span.center {
+    display:table;
+    margin-left: auto;
+    margin-right: auto;
+
+}

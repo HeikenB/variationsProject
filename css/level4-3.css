@@ -1,0 +1,84 @@
+.p1 {
+    font-family: 'Tourney', cursive;
+    font-weight: 900;
+    font-size: 2em;
+    text-align:justify;
+    width: 500px;
+    line-height: 2;
+    padding: 50px;
+}
+.em1 {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+
+}
+.p2 {
+    font-family: 'Tourney', cursive;
+    font-weight: 800;
+    font-size: 1.75em;
+    text-align:center;
+    line-height: 3;
+   margin: 100px;
+   border-style: solid;
+    border-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+.em2{
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    color:rgb(255, 0, 212);
+}
+.p3 {
+    font-family: 'Tourney', cursive;
+    font-weight: 600;
+    font-size: 1.5em;
+    text-align:right;
+    line-height: 2;
+    margin-right: 500px;
+}
+.p4 {
+    font-family: 'Tourney', cursive;
+    font-weight: 500;
+    font-size: 1.25em;
+    text-align:left;
+    line-height: 0.5;
+    padding: 10px
+}
+.p5 {
+    font-family: 'Tourney', cursive;
+    font-weight: 400;
+    font-size: 1em;
+    text-align:right;
+    line-height: 0.5;
+    padding: 10px
+}
+.p6 {
+    font-family: 'Tourney', cursive;
+    font-weight: 300;
+    font-size: 0.75em;
+    text-align:left;
+    padding: 100px
+}
+.p7 {
+    font-family: 'Tourney', cursive;
+    font-weight: 200;
+    font-size: 1em;
+    text-align:right;
+    line-height: 0.5;
+    padding: 10px
+}
+.p8 {
+    font-family: 'Tourney', cursive;
+    font-weight: 100;
+    font-size: 1em;
+    text-align:left;
+    line-height: 0.5;
+    padding: 10px
+}
+.p9 {
+    font-family: 'Tourney', cursive;
+    font-weight: 100;
+    font-size: 0.5em;
+    text-align:center;
+    line-height: 0.5;
+}

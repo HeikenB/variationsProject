@@ -1,0 +1,46 @@
+.body {
+  font-family: 'League Gothic', sans-serif;
+  width: 400px;
+  text-align:justify;
+  margin: auto;
+}
+
+.backgroundChange {
+    position: relative;
+    animation: back 5s infinite;
+}
+@keyframes back {
+    0%   {background-color: rgb(255, 255, 255);}
+    50%  {background-color: red;}
+    75%  {background-color: blue;}
+}
+.colourChange1 {
+  display: inline-block;
+  position: relative;
+  animation: changeText 5s infinite;
+}
+@keyframes changeText {
+  0%   {color: rgb(0, 0, 0);}
+  50%  {color:red;}
+  75%  {color: red;}
+}
+.colourChange2 {
+  display: inline-block;
+  position: relative;
+  animation: changeText2 5s infinite;
+}
+@keyframes changeText2 {
+  0%   {color: rgb(0, 0, 0);}
+  50%  {color:blue;}
+  75%  {color: blue;}
+}
+.textChange {
+  position: relative;
+  animation: textChosen 5s infinite;
+}
+@keyframes textChosen {
+  0%   {color: rgb(255, 255, 255);}
+  50%  {color:rgb(255, 0, 0);}
+  75%  {color: blue;}
+
+}

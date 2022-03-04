@@ -1,0 +1,55 @@
+.div1 {
+    text-transform: capitalize;
+    font-family: 'Mali', cursive;
+    font-weight: 200;
+}
+.em1 {
+    line-height: 0.5;
+    font-weight: 700;
+    line-height: 2;
+    border-style: solid;
+    border-color: black;
+}
+h1 {
+    font-family: 'Mali', cursive;
+    font-weight: 700;
+}
+h6 {
+    font-family: 'Mali', cursive;
+    font-weight: 200;
+}
+.hit {
+    letter-spacing: -5px;
+}
+.cake {
+    letter-spacing: -3px;
+}
+.down {
+    position: relative;
+    top:10px
+}
+.eat {
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+    text-transform: uppercase;
+}
+.p2 {
+    font-family: 'Mali', cursive;
+    font-weight: 200;
+}
+.wide {
+    letter-spacing: 50px;
+}
+.p3 {
+    font-family: 'Mali', cursive;
+    font-weight: 200;
+    text-align: center;
+    width: 400px
+}
+.p4 {
+    font-family: 'Mali', cursive;
+    font-weight: 200;
+    letter-spacing: 10px;
+
+}

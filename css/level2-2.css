@@ -1,0 +1,12 @@
+span {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 5em;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.centre {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
